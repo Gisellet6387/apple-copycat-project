@@ -2,7 +2,10 @@ h1 {
     color: white;
     position:absolute;
     left:500px;
-    top:50px;
+    top:70px;
+    font-family:"system-ui" ,Helvetica, sans-serif;
+    font-size:52px;
+    font-weight:600;
   }
 .bt:hover {
     color:white;
@@ -12,37 +15,107 @@ h2 {
     color: white;
     position:absolute;
     left:360px;
-    top:100px;
+    top:160px;
     background-color:black;
+    font-family:"helvetica";
+    font-size:32px;
+    font-weight:100;
+    letter-spacing:-0.01em;
   }
  h3 {
-    color: white;
+    color:#3093FE;
     position:absolute;
-    left:420px;
-    top:200px;
+    left:540px;
+    top:241px;
     font-size:25px;
     background-color:black;
+    font-family:"helvetica";
+    font-weight:100;
   }
  h4 {
-    color: white;
+    color:#3093FE;
     position:absolute;
-    left:650px;
-    top:191px;
+    left:730px;
+    top:232px;
     font-size:25px;
     background-color:black;
+    font-family:"helvetica";
+    font-weight:100;
   }
 p {
-    color: white;
+    color: grey;
     position:absolute;
-    left:450px;
-    top:150px;
+    font-size:20px;
+    left:490px;
+    top:210px;
     background-color:black;
+    font-family:"helvetica";
   }
 h3:hover{
     text-decoration: underline;
-    color:#173EEC;
+ 
 }
 h4:hover{
     text-decoration: underline;
-    color:#173EEC;
+    
+}
+
+.a {
+    position:absolute;
+    left:15px;
+    top:10px;
+}
+.b {
+    position:absolute;
+    left:145px;
+    top:20px;
+    font-size:16px;
+}
+.c {
+    position:absolute;
+    left:274px;
+    top:20px;
+    font-size:16px;
+}
+.d {
+    position:absolute;
+    left:395px;
+    top:20px;
+    font-size:16px;
+}
+.e {
+    position:absolute;
+    left:545px;
+    top:20px;
+    font-size:16px;
+}
+.f {
+    position:absolute;
+    left:685px;
+    top:20px;
+    font-size:16px;
+}
+.g {
+    position:absolute;
+    left:800px;
+    top:20px;
+    font-size:16px;
+}
+.h {
+    position:absolute;
+    left:950px;
+    top:20px;
+    font-size:16px;
+}
+.i {
+    position:absolute;
+    left:1105px;
+    top:20px;
+    font-size:16px;
+}
+.j {
+    position:absolute;
+    left:1215px;
+    top:20px;
+    font-size:16px;
 }
