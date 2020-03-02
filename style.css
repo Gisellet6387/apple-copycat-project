@@ -7,10 +7,6 @@ h1 {
     font-size:52px;
     font-weight:600;
   }
-.bt:hover {
-    color:white;
-    background-color:black;
-    }
 h2 {
     color: white;
     position:absolute;
@@ -50,9 +46,10 @@ p {
     top:210px;
     background-color:black;
     font-family:"helvetica";
-  }
+    }
 h3:hover{
     text-decoration: underline;
+    
  
 }
 h4:hover{
@@ -118,4 +115,15 @@ h4:hover{
     left:1215px;
     top:20px;
     font-size:16px;
+}
+a {
+   color:#d4d4d4;
+   text-decoration:none;
+}
+
+a:hover{
+    color:white;
+}
+.bt:hover {
+    color:white;
 }
